@@ -1,4 +1,4 @@
-# IKEA-business-case
+
 # IKEA Business Case
 
 ## Project Overview
